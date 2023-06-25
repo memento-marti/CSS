@@ -1,0 +1,40 @@
+.cedarsbg {
+width: 470px;
+padding: 17px;
+}
+.cedarsimg {
+background-color: #a1655b;
+width: 130px;
+padding: 8px 8px 15px 8px;
+}
+.cedarsn {
+font-family: georgia;
+font-size: 30px;
+font-weight: bold;
+font-style: italic;
+color: #f8fbfd;
+margin-top: 10px;
+margin-bottom: 10px;
+text-align: center;
+}
+.cedarsn2 {
+font-family: veranda;
+font-size: 10px;
+color: #131313;
+text-align: justify;
+line-height: 10px;
+margin-top: 5px;
+}
+.cedarsp {
+margin-left: 8px;
+width: 300px;
+font-family: veranda;
+font-size: 14px;
+line-height: 15px;
+text-align: justify;
+color: #d3d3d3;
+}
+.cedarsp b,
+.cedarsp strong {
+color: #a1655b;
+}
